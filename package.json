@@ -4,6 +4,7 @@
   "description": "Thank with HeartBank",
   "scripts": {
     "start": "node server.js",
+    "startwp": "better-npm-run start",
     "build": "rimraf dist && better-npm-run build && gulp generate-service-worker",
     "prod": "better-npm-run prod",
     "lint": "eslint .",

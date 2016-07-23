@@ -47,17 +47,12 @@ Inspect state, time travel through various actions. Enabled by default for devel
 - press `ctrl + q` to toggle positioning of DevTools
 
 ### Initializing the Development Environment
-    $ npm start
+    $ npm startwp
 Point to http://localhost:8080
 
 ### Initializing the Production Environment
     $ npm run prod
 Point to http://localhost:8080
-
-### Running Tests
-1. Run React tests with gulp at `localhost:9001` with `npm test`
-1. Run React tests with Karma in Chrome and Firefox with `npm run karma`
-1. Run React tests from the command line with `./node_modules/karma/bin/karma start --single-run --browsers PhantomJS`
 
 ### Build
     $ npm run build
