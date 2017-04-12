@@ -10,4 +10,4 @@ Any parent can open a **family bank** by calling `+1-800-59-THANK` to receive a 
 
 - [Documentation](https://github.com/HeartBank/family.heartbank.org/wiki/Introduction)
 - [Family.HeartBank.org](http://family.heartbank.org)
-- [Kiitos.HeartBank.cloud](https://kiitos.heartbank.cloud)
+- https://kiitos.heartbank.cloud
