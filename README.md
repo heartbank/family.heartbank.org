@@ -8,6 +8,6 @@ We are a small nonprofit with a simple mission to bring more **peace** and **lov
 
 Any parent can open a **family bank** by calling `+1-800-59-THANK` to receive a dedicated _family number_. By calling this number, any family member can create an account, and use texting commands such as _give_, _take_, _reward_, and _donate_. Family banks are interconnected through the settlement of bitcoins, and developers can take advantage of this ecosystem to build apps focused on the family.
 
-- [Family.HeartBank.org](https://github.com/HeartBank/family.heartbank.org)
 - [Documentation](https://github.com/HeartBank/family.heartbank.org/wiki/Introduction)
-- https://kiitos.heartbank.cloud
+- [Family.HeartBank.org](http://family.heartbank.org)
+- [Kiitos.HeartBank.cloud](https://kiitos.heartbank.cloud)
